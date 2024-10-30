@@ -1,8 +1,8 @@
-first_name ='Petya,'
 dz_ = 12
 hours = 1.5
 course = "Python"
-print ('Курс: ',first_name, 'всего задач:',dz_ ,'затрачено часов:', hours,'среднее время выполнения:',(1.5/12))
+a = hours/dz_
+print ('Курс: ',course, 'всего задач:',dz_ ,'затрачено часов:', hours,'среднее время выполнения:',a)
 
 # прошлое решение
 #first_point="12"
