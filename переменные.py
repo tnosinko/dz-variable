@@ -1,8 +1,8 @@
-first_name ='Petya'
+first_name ='Petya,'
 dz_ = 12
 hours = 1.5
 course = "Python"
-print (first_name,'всего задач:',dz_ ,'затрачено часов:', hours,'среднее время выполнения:',(1.5/12))
+print ('Курс: ',first_name, 'всего задач:',dz_ ,'затрачено часов:', hours,'среднее время выполнения:',(1.5/12))
 
 # прошлое решение
 #first_point="12"
